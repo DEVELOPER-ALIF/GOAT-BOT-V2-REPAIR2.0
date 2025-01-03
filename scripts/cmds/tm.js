@@ -45,8 +45,7 @@ module.exports = {
 												return;
 										} else {
 												let b = mails[0];
-												var msg = `You have a message!\n\nFrom: ${b.from}\n\nSubject: ${b.subject}\n\nMessage: ${b.textBody}\nDate: ${b.date}`;
-												reply(msg + `\n\nOnce the email and message are received, they will be automatically deleted.`);
+												var msg = `You have a message!\n\nFrom: ${b.from}\n\nSubject: ${b.subject}\n\nOnce the email and message are received, they will be automatically deleted.`);
 												return mail.deleteMail();
 										}
 								});
