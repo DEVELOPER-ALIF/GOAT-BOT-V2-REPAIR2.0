@@ -35,22 +35,22 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557409693409"
+    "100034491281335"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61557409693409"
+      "100034491281335"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐓𝐎𝐌𝐄𝐓𝐎 𝐖𝐀𝐋𝐀 ৬𝐓৯",
+  "nickNameBot": "আলিফ এর কামলা",
   "prefix": ">",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ㅤ❮𝐇4𝐜𝐤𝐞𝐫 ❯‣❮𝐓𝐎𝐌𝐄𝐓𝐎 𝐖𝐀𝐋𝐀 ৬𝐓৯❯_//_ :/ ;* 3:) :o",
+  "authorName": "ㅤ😎ALIF😎_//_ :/ ;* 3:) :o",
   "facebook2": "https://www.facebook.com/@badhon.exist/",
   "facebook": "https://www.facebook.com/@badhon.exist/",
   "email": "brsgaming222@gmail.com",
@@ -171,7 +171,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      "100034491281335"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
