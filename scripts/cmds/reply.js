@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "Reply",
 	version: "1.0.2",
 	role: 0,
-	author: "BAYJID/dont chng author name name chng not working",
+	author: "ALIF/dont chng author name name chng not working",
 	prefix: false,
 	category: "without prefix",
 	guide: "[tag]",
